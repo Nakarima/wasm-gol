@@ -1,7 +1,7 @@
 [package]
 name = "wasm-gol"
 version = "0.1.0"
-authors = ["Marcin Puczko <marcin.puczko@lekta.ai>"]
+authors = ["Marcin Puczko <marcin.puczko@protonmail.com>"]
 edition = "2018"
 
 [lib]
